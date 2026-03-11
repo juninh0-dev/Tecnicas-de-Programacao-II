@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\bin\Debug\net8.0\Associacao.exe
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\bin\Debug\net8.0\Associacao.deps.json
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\bin\Debug\net8.0\Associacao.runtimeconfig.json
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\bin\Debug\net8.0\Associacao.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\bin\Debug\net8.0\Associacao.pdb
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\refint\Associacao.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.pdb
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\Associacao.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Associacao\obj\Debug\net8.0\ref\Associacao.dll

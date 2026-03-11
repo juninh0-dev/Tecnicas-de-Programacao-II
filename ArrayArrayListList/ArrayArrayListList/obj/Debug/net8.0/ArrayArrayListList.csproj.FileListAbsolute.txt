@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\bin\Debug\net8.0\ArrayArrayListList.exe
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\bin\Debug\net8.0\ArrayArrayListList.deps.json
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\bin\Debug\net8.0\ArrayArrayListList.runtimeconfig.json
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\bin\Debug\net8.0\ArrayArrayListList.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\bin\Debug\net8.0\ArrayArrayListList.pdb
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\refint\ArrayArrayListList.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.pdb
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ArrayArrayListList.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\ArrayArrayListList\obj\Debug\net8.0\ref\ArrayArrayListList.dll

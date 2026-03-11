@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\bin\Debug\net8.0\Composicao.exe
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\bin\Debug\net8.0\Composicao.deps.json
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\bin\Debug\net8.0\Composicao.runtimeconfig.json
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\bin\Debug\net8.0\Composicao.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\bin\Debug\net8.0\Composicao.pdb
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\refint\Composicao.dll
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.pdb
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\Composicao.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\ArrayArrayListList\Composicao\obj\Debug\net8.0\ref\Composicao.dll
