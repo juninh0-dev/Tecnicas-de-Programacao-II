@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\bin\Debug\net8.0\IColletion.exe
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\bin\Debug\net8.0\IColletion.deps.json
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\bin\Debug\net8.0\IColletion.runtimeconfig.json
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\bin\Debug\net8.0\IColletion.dll
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\bin\Debug\net8.0\IColletion.pdb
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.dll
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\refint\IColletion.dll
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.pdb
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\IColletion.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\IEnumerable\IColletion\obj\Debug\net8.0\ref\IColletion.dll
