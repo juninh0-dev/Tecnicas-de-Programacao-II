@@ -1,10 +1,10 @@
 ﻿using System.Reflection;
 
-Console.WriteLine("Café da manhã sincrono");
-cafeDaManhaAsync();
+Console.WriteLine("Café da manhã Assincrono");
+await cafeDaManhaAsync();
 Console.WriteLine("Fim do Café da manhã");
 
-static async void cafeDaManhaAsync()
+static async Task cafeDaManhaAsync()
 {
     Console.WriteLine("Preparar o café");
     var TarefaCafe = PrepararCafeAsync();
