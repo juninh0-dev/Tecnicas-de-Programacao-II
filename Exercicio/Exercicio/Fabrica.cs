@@ -1,26 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Exercicio
+public class Fabrica
 {
-    public class Fabrica
-    {
-        public string? Nome { get; set; }
-        static async Task AdicionarMaquina()
-        {
-            
-        }
-        static async Task ListarMaquina()
-        {
-            
-        }static async Task BurcarMaquinaPorModelo()
-        {
-            
-        }
+    public string? Nome { get; set; }
 
+    public ICollection<Maquina> Maquinas { get; set; }
+
+    public Fabrica()
+    {
+        Maquinas = new List<Maquina>();
+    }
+
+    public void AdicionarMaquina(Maquina maquina)
+    {
+        Maquinas.Add(maquina);
+    }
+
+    public void ListarMaquinas()
+    {
+        foreach (var m in Maquinas)
+        {
+            Console.WriteLine($"Nome: {m.Nome} | Modelo: {m.Modelo} | Data Fabricação: {m.DataFabricacao} | Nº Série: {m.NumeroSerie}");
+        }
+    }
+
+    public Maquina BuscarMaquinaPorModelo(string modelo)
+    {
+        return Maquinas.FirstOrDefault(m => m.Modelo == modelo);
     }
 }
