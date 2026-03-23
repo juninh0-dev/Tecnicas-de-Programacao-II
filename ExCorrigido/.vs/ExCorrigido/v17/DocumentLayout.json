@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|c:\\users\\0201392511042\\desktop\\excorrigido\\excorrigido\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|solutionrelative:excorrigido\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|c:\\users\\0201392511042\\desktop\\excorrigido\\excorrigido\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|solutionrelative:excorrigido\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|c:\\users\\0201392511042\\desktop\\excorrigido\\excorrigido\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|solutionrelative:excorrigido\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|c:\\users\\0201392511042\\desktop\\excorrigido\\excorrigido\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|solutionrelative:excorrigido\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|c:\\users\\0201392511042\\desktop\\excorrigido\\excorrigido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EABA6E-7092-47C2-982A-B5FB969C145F}|ExCorrigido\\ExCorrigido.csproj|solutionrelative:excorrigido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Maquina.cs",
+              "RelativeDocumentMoniker": "ExCorrigido\\Maquina.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Maquina.cs",
+              "RelativeToolTip": "ExCorrigido\\Maquina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:07:43.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Operador.cs",
+              "RelativeDocumentMoniker": "ExCorrigido\\Operador.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Operador.cs",
+              "RelativeToolTip": "ExCorrigido\\Operador.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:08:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Equipamento.cs",
+              "RelativeDocumentMoniker": "ExCorrigido\\Equipamento.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Equipamento.cs",
+              "RelativeToolTip": "ExCorrigido\\Equipamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:08:30.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fabrica.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Fabrica.cs",
+              "RelativeDocumentMoniker": "ExCorrigido\\Fabrica.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Fabrica.cs",
+              "RelativeToolTip": "ExCorrigido\\Fabrica.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:07:33.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Program.cs",
+              "RelativeDocumentMoniker": "ExCorrigido\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\ExCorrigido\\ExCorrigido\\Program.cs",
+              "RelativeToolTip": "ExCorrigido\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:07:13.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
