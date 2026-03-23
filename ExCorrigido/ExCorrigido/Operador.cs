@@ -18,7 +18,7 @@ namespace ExCorrigido
         }
         public string? Nome {  get; set; }
         public Maquina? MaquinaOperador { get; set; }
-        public async void OperarMaquinasAsync(Fabrica fabrica, string modelo)
+        public async Task OperarMaquinasAsync(Fabrica fabrica, string modelo)
         {
             Console.WriteLine($"{Nome} está tentando operar a máquina modelo {modelo}");
             await Task.Delay(2000);
@@ -29,8 +29,9 @@ namespace ExCorrigido
             }
             else
             {
-                Console.WriteLine($"{Nome} agora está operando a máquina modelo {maquina.Modelo}");
+                Console.WriteLine($"{Nome} agora está operando a máquina modelo {MaquinaOperador.Modelo}");
                 await Task.Delay(3000);
+                
             }
         }
     }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio\\exercicio\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio\\exercicio\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41AF8DBE-07C6-4116-A4F2-2D7C064F785D}|Exercicio\\Exercicio.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio\\exercicio\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "Exercicio\\MaquinaNaoEncontradaExcepition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T14:14:38.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T14:14:38.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Operador.cs",
               "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio\\Exercicio\\Operador.cs",
               "RelativeDocumentMoniker": "Exercicio\\Operador.cs",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Exercicio\\Operador.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T13:58:23.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T13:58:23.393Z"
             },
             {
               "$type": "Document",
@@ -72,18 +70,17 @@
               "RelativeToolTip": "Exercicio\\Equipamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T13:54:19.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T13:54:19.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Maquina.cs",
               "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio\\Exercicio\\Maquina.cs",
               "RelativeDocumentMoniker": "Exercicio\\Maquina.cs",
               "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio\\Exercicio\\Maquina.cs",
               "RelativeToolTip": "Exercicio\\Maquina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:52:47.65Z",
               "EditorCaption": ""
@@ -98,18 +95,17 @@
               "RelativeToolTip": "Exercicio\\Fabrica.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T13:38:11.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T13:38:11.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio\\Exercicio\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio\\Program.cs",
               "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio\\Exercicio\\Program.cs",
               "RelativeToolTip": "Exercicio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:30:17.638Z",
               "EditorCaption": ""

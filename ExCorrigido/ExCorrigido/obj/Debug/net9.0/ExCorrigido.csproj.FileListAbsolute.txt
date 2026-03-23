@@ -1,0 +1,15 @@
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\bin\Debug\net9.0\ExCorrigido.exe
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\bin\Debug\net9.0\ExCorrigido.deps.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\bin\Debug\net9.0\ExCorrigido.runtimeconfig.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\bin\Debug\net9.0\ExCorrigido.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\bin\Debug\net9.0\ExCorrigido.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.sourcelink.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\refint\ExCorrigido.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ExCorrigido.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\ExCorrigido\ExCorrigido\obj\Debug\net9.0\ref\ExCorrigido.dll

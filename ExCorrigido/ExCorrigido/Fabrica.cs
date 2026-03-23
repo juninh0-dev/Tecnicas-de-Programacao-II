@@ -26,7 +26,7 @@ namespace ExCorrigido
             foreach (var maquina in MaquinaFabrica) 
             {
                 Console.WriteLine($"Modelo: {maquina.Modelo}\nHoras.Operação:{maquina.HoraOperacao}\n" +
-                    $"Número de série${maquina.NumeroSerie}\nNome do Equipamento:{maquina.Nome}\n" +
+                    $"\nNome do Equipamento:{maquina.Nome}\n" +
                     $"Data da Fabricação:{maquina.DataFabricacao}");    
             }
         }
