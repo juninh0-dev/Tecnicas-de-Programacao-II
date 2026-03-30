@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\bin\Debug\net9.0\TryCatchFinally.exe
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\bin\Debug\net9.0\TryCatchFinally.deps.json
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\bin\Debug\net9.0\TryCatchFinally.runtimeconfig.json
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\bin\Debug\net9.0\TryCatchFinally.dll
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\bin\Debug\net9.0\TryCatchFinally.pdb
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.dll
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\refint\TryCatchFinally.dll
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.pdb
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\TryCatchFinally.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\exception\TryCatchFinally\obj\Debug\net9.0\ref\TryCatchFinally.dll
