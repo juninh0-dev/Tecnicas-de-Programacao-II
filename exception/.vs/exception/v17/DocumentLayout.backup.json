@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\exception\\",
+  "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CF4B6AA-3A1F-48E8-AE70-719ED82568E6}|TryCatchFinally\\TryCatchFinally.csproj|c:\\users\\0201392511042\\desktop\\exception\\trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7574692-F9C2-44FE-A3FD-D02E3C680EB8}|exceptionPersonalizada\\exceptionPersonalizada.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exception\\exceptionpersonalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7574692-F9C2-44FE-A3FD-D02E3C680EB8}|exceptionPersonalizada\\exceptionPersonalizada.csproj|solutionrelative:exceptionpersonalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286D4D0-2974-4A75-9680-4C7FEF6D1AAA}|Throw\\Throw.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exception\\throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286D4D0-2974-4A75-9680-4C7FEF6D1AAA}|Throw\\Throw.csproj|solutionrelative:throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4B6AA-3A1F-48E8-AE70-719ED82568E6}|TryCatchFinally\\TryCatchFinally.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exception\\trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CF4B6AA-3A1F-48E8-AE70-719ED82568E6}|TryCatchFinally\\TryCatchFinally.csproj|solutionrelative:trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\exception\\TryCatchFinally\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\exceptionPersonalizada\\Program.cs",
+              "RelativeDocumentMoniker": "exceptionPersonalizada\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\exceptionPersonalizada\\Program.cs",
+              "RelativeToolTip": "exceptionPersonalizada\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:35:23.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\Throw\\Program.cs",
+              "RelativeDocumentMoniker": "Throw\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\Throw\\Program.cs",
+              "RelativeToolTip": "Throw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:13:09.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\TryCatchFinally\\Program.cs",
               "RelativeDocumentMoniker": "TryCatchFinally\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\exception\\TryCatchFinally\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\exception\\TryCatchFinally\\Program.cs",
               "RelativeToolTip": "TryCatchFinally\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T12:46:06.749Z",
               "EditorCaption": ""

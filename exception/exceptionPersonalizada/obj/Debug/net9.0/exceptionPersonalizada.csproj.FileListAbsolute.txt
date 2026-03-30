@@ -1,0 +1,15 @@
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\bin\Debug\net9.0\exceptionPersonalizada.exe
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\bin\Debug\net9.0\exceptionPersonalizada.deps.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\bin\Debug\net9.0\exceptionPersonalizada.runtimeconfig.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\bin\Debug\net9.0\exceptionPersonalizada.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\bin\Debug\net9.0\exceptionPersonalizada.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.sourcelink.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\refint\exceptionPersonalizada.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\exceptionPersonalizada.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\exception\exceptionPersonalizada\obj\Debug\net9.0\ref\exceptionPersonalizada.dll
