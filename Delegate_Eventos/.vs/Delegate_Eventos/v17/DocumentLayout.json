@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAA34C3C-63AC-410E-B7EA-A569EB7D3784}|EventHandle_Com_Argumentos\\EventHandle_Com_Argumentos.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\delegate_eventos\\eventhandle_com_argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA34C3C-63AC-410E-B7EA-A569EB7D3784}|EventHandle_Com_Argumentos\\EventHandle_Com_Argumentos.csproj|solutionrelative:eventhandle_com_argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0579C67A-476D-44BE-8228-EC60FD7464C8}|Evento\\Evento.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\delegate_eventos\\evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0579C67A-476D-44BE-8228-EC60FD7464C8}|Evento\\Evento.csproj|solutionrelative:evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38E2028B-483B-4CBE-A0AA-5ABA333AFA55}|EventHandle_Sem_Argumentos\\EventHandle_Sem_Argumentos.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\delegate_eventos\\eventhandle_sem_argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E2028B-483B-4CBE-A0AA-5ABA333AFA55}|EventHandle_Sem_Argumentos\\EventHandle_Sem_Argumentos.csproj|solutionrelative:eventhandle_sem_argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33EF878-7702-4269-8BAD-6AEC1C407AFA}|Delegate\\Delegate.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\delegate_eventos\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33EF878-7702-4269-8BAD-6AEC1C407AFA}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\EventHandle_Com_Argumentos\\Program.cs",
-              "RelativeDocumentMoniker": "EventHandle_Com_Argumentos\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\EventHandle_Com_Argumentos\\Program.cs",
-              "RelativeToolTip": "EventHandle_Com_Argumentos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T12:51:52.123Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +32,35 @@
               "RelativeDocumentMoniker": "EventHandle_Sem_Argumentos\\Program.cs",
               "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\EventHandle_Sem_Argumentos\\Program.cs",
               "RelativeToolTip": "EventHandle_Sem_Argumentos\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T12:37:09.826Z",
+              "WhenOpened": "2026-04-06T13:54:10.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\Evento\\Program.cs",
+              "RelativeToolTip": "Evento\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:48:34.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Delegate_Eventos\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:14:03.095Z",
               "EditorCaption": ""
             }
           ]

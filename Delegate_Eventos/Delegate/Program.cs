@@ -6,7 +6,7 @@ MeuDelegate del3 = (msg) => Console.WriteLine(msg);
 
 del1.Invoke("Minha Mensagem 1");
 del2("Minha Mensagem 2");
-del1("Minha Mensagem 3");
+del3("Minha Mensagem 3");
 
 static void MeuMetodo(string mensagem)
 {
