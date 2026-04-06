@@ -1,0 +1,15 @@
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\bin\Debug\net8.0\EventHandle_Sem_Argumentos.exe
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\bin\Debug\net8.0\EventHandle_Sem_Argumentos.deps.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\bin\Debug\net8.0\EventHandle_Sem_Argumentos.runtimeconfig.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\bin\Debug\net8.0\EventHandle_Sem_Argumentos.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\bin\Debug\net8.0\EventHandle_Sem_Argumentos.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.sourcelink.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\refint\EventHandle_Sem_Argumentos.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\EventHandle_Sem_Argumentos.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Delegate_Eventos\EventHandle_Sem_Argumentos\obj\Debug\net8.0\ref\EventHandle_Sem_Argumentos.dll

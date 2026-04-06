@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EventHandle_Sem_Argumentos/1.0.0": {
+        "runtime": {
+          "EventHandle_Sem_Argumentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventHandle_Sem_Argumentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
