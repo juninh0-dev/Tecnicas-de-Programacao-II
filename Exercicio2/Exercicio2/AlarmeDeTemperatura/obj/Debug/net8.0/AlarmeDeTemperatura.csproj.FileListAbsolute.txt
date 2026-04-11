@@ -1,0 +1,15 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\bin\Debug\net8.0\AlarmeDeTemperatura.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\bin\Debug\net8.0\AlarmeDeTemperatura.deps.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\bin\Debug\net8.0\AlarmeDeTemperatura.runtimeconfig.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\bin\Debug\net8.0\AlarmeDeTemperatura.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\bin\Debug\net8.0\AlarmeDeTemperatura.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.AssemblyInfo.cs
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.sourcelink.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\refint\AlarmeDeTemperatura.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\AlarmeDeTemperatura.genruntimeconfig.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\AlarmeDeTemperatura\obj\Debug\net8.0\ref\AlarmeDeTemperatura.dll

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{1CC2B003-B1CD-48CF-966A-05489B7683C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio2\Exercicio1.csproj", "{1CC2B003-B1CD-48CF-966A-05489B7683C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmeDeTemperatura", "AlarmeDeTemperatura\AlarmeDeTemperatura.csproj", "{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}"
 EndProject

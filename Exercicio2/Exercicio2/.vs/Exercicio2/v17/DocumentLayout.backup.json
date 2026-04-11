@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\",
+  "WorkspaceRootPath": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}|AlarmeDeTemperatura\\AlarmeDeTemperatura.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio2\\exercicio2\\alarmedetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}|AlarmeDeTemperatura\\AlarmeDeTemperatura.csproj|c:\\users\\junin\\documents\\github\\tecnicas-de-programacao-ii\\exercicio2\\exercicio2\\alarmedetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}|AlarmeDeTemperatura\\AlarmeDeTemperatura.csproj|solutionrelative:alarmedetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\AlarmeDeTemperatura\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\AlarmeDeTemperatura\\Program.cs",
               "RelativeDocumentMoniker": "AlarmeDeTemperatura\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\AlarmeDeTemperatura\\Program.cs",
+              "ToolTip": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\AlarmeDeTemperatura\\Program.cs",
               "RelativeToolTip": "AlarmeDeTemperatura\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T13:47:50.736Z",
               "EditorCaption": ""
