@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio2\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmeDeTemperatura", "AlarmeDeTemperatura\AlarmeDeTemperatura.csproj", "{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistemaContagemCliques", "sistemaContagemCliques\sistemaContagemCliques.csproj", "{5C957C9C-1E94-4AEB-BF25-093D4BC02089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AC3F5E-A3CF-4271-AFBA-38E5CE387184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C957C9C-1E94-4AEB-BF25-093D4BC02089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C957C9C-1E94-4AEB-BF25-093D4BC02089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C957C9C-1E94-4AEB-BF25-093D4BC02089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C957C9C-1E94-4AEB-BF25-093D4BC02089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D2733D-E590-41E5-89E8-467D617366A9}
 	EndGlobalSection
 EndGlobal
