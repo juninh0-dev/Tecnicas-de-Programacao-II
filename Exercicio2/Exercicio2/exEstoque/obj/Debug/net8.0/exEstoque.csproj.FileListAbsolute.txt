@@ -1,0 +1,15 @@
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\bin\Debug\net8.0\exEstoque.exe
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\bin\Debug\net8.0\exEstoque.deps.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\bin\Debug\net8.0\exEstoque.runtimeconfig.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\bin\Debug\net8.0\exEstoque.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\bin\Debug\net8.0\exEstoque.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.sourcelink.json
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\refint\exEstoque.dll
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.pdb
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\exEstoque.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\Tecnicas-de-Programacao-II\Exercicio2\Exercicio2\exEstoque\obj\Debug\net8.0\ref\exEstoque.dll

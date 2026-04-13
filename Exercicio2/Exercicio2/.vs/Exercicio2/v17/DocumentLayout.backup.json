@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\",
+  "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C957C9C-1E94-4AEB-BF25-093D4BC02089}|sistemaContagemCliques\\sistemaContagemCliques.csproj|c:\\users\\junin\\documents\\github\\tecnicas-de-programacao-ii\\exercicio2\\exercicio2\\sistemacontagemcliques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6065C3A-4B2B-491F-938A-47EE890E4285}|exEstoque\\exEstoque.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio2\\exercicio2\\exestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6065C3A-4B2B-491F-938A-47EE890E4285}|exEstoque\\exEstoque.csproj|solutionrelative:exestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C957C9C-1E94-4AEB-BF25-093D4BC02089}|sistemaContagemCliques\\sistemaContagemCliques.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\exercicio2\\exercicio2\\sistemacontagemcliques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C957C9C-1E94-4AEB-BF25-093D4BC02089}|sistemaContagemCliques\\sistemaContagemCliques.csproj|solutionrelative:sistemacontagemcliques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\sistemaContagemCliques\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\exEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "exEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\exEstoque\\Program.cs",
+              "RelativeToolTip": "exEstoque\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:53:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\sistemaContagemCliques\\Program.cs",
               "RelativeDocumentMoniker": "sistemaContagemCliques\\Program.cs",
-              "ToolTip": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\sistemaContagemCliques\\Program.cs*",
-              "RelativeToolTip": "sistemaContagemCliques\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBwAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Exercicio2\\Exercicio2\\sistemaContagemCliques\\Program.cs",
+              "RelativeToolTip": "sistemaContagemCliques\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T12:38:30.06Z",
               "EditorCaption": ""
