@@ -28,9 +28,22 @@ Console.WriteLine("--------------------------");
 Console.WriteLine("Filtrando preços menor do que 500 com aumento de 10% ordenado " +
     "por nome e criando um tipo de anônimo.");
 
-var resultado = listaProdutos.Where(p => p.Preco < 500).OrderBy(p=>p.Nome)
-    .Select(p => new {nomeProduto = p.Nome.ToUpper(), PrecoComAumento = p.Preco *1.1});
-Produto.Mostrar(resultado);
+/*var resultado = listaProdutos.Where(p => p.Preco < 500).OrderBy(p=>p.Nome)
+    .Select(p => new Produto {
+        Nome= p.Nome.ToUpper(), 
+        Preco = p.Preco *1.1,
+        Id = p.Id,
+        Estoque = p.Estoque,
+        Categoria = p.Categoria});
+Produto.Mostrar(resultado);*/
+
+var resultado = listaProdutos.Where(p => p.Preco < 500).OrderBy(p => p.Nome)
+    .Select(p => new
+    {
+        nomeProduto = p.Nome.ToUpper(),
+        precoModificado = p.Preco * 1.1,
+    });
+Produto.MostrarTipoAnonimo(resultado);
 Console.WriteLine("--------------------------");
 
 Console.WriteLine("Valor médio dos preços dos eletrônicos.");
@@ -45,9 +58,9 @@ Console.WriteLine("Selecionar produtos com preços maior do que 200 com desconto
 var resultado2 = listaProdutos.Where(p => p.Preco > 200).OrderBy(p=>p.Preco)
     .Select(p => new { 
         nomeProduto = p.Nome.ToUpper(), 
-        PrecoComDesconto = p.Preco * 0.8 
+        precoModificado = p.Preco * 0.8 
     });
-Produto.Mostrar(resultado);
+Produto.MostrarTipoAnonimo(resultado2);
 Console.WriteLine("--------------------------");
 
 Console.ReadKey();
@@ -81,6 +94,13 @@ public class Produto
         foreach (var item in produtos)
         {
             Console.WriteLine($"{item.Id} - {item.Nome} - {item.Preco} - {item.Estoque} - {item.Categoria}");            
+        }
+    }
+    public static void MostrarTipoAnonimo(IEnumerable<dynamic> produtos)
+    {
+        foreach (var item in produtos)
+        {
+            Console.WriteLine($"{item.nomeProduto} - {item.precoModificado}");
         }
     }
 
