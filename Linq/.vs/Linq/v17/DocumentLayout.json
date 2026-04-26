@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\",
+  "WorkspaceRootPath": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB16B1B-187B-4CEE-8A41-4773FFF09921}|Exemplo3\\Exemplo3.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\linq\\exemplo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB16B1B-187B-4CEE-8A41-4773FFF09921}|Exemplo3\\Exemplo3.csproj|c:\\users\\junin\\documents\\github\\tecnicas-de-programacao-ii\\linq\\exemplo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB16B1B-187B-4CEE-8A41-4773FFF09921}|Exemplo3\\Exemplo3.csproj|solutionrelative:exemplo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB863A6-449E-40A7-9828-992CE5430A29}|Exemplo2\\Exemplo2.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\linq\\exemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EB863A6-449E-40A7-9828-992CE5430A29}|Exemplo2\\Exemplo2.csproj|c:\\users\\junin\\documents\\github\\tecnicas-de-programacao-ii\\linq\\exemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EB863A6-449E-40A7-9828-992CE5430A29}|Exemplo2\\Exemplo2.csproj|solutionrelative:exemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76BDD088-75E9-40D5-B6D7-9D2A637A076A}|Exemplo1\\Exemplo1.csproj|c:\\users\\0201392511042\\desktop\\tecnicas-de-programacao-ii\\linq\\exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76BDD088-75E9-40D5-B6D7-9D2A637A076A}|Exemplo1\\Exemplo1.csproj|c:\\users\\junin\\documents\\github\\tecnicas-de-programacao-ii\\linq\\exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76BDD088-75E9-40D5-B6D7-9D2A637A076A}|Exemplo1\\Exemplo1.csproj|solutionrelative:exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,17 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\Exemplo3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\Exemplo3\\Program.cs",
               "RelativeDocumentMoniker": "Exemplo3\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\Exemplo3\\Program.cs",
+              "ToolTip": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\Exemplo3\\Program.cs",
               "RelativeToolTip": "Exemplo3\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAUwDwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:19:32.328Z",
               "EditorCaption": ""
@@ -41,25 +45,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\Exemplo2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\Exemplo2\\Program.cs",
               "RelativeDocumentMoniker": "Exemplo2\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\Exemplo2\\Program.cs",
+              "ToolTip": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\Exemplo2\\Program.cs",
               "RelativeToolTip": "Exemplo2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:11:59.73Z"
+              "WhenOpened": "2026-04-13T11:11:59.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\Exemplo1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\Exemplo1\\Program.cs",
               "RelativeDocumentMoniker": "Exemplo1\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511042\\Desktop\\Tecnicas-de-Programacao-II\\Linq\\Exemplo1\\Program.cs",
+              "ToolTip": "C:\\Users\\junin\\Documents\\GitHub\\Tecnicas-de-Programacao-II\\Linq\\Exemplo1\\Program.cs",
               "RelativeToolTip": "Exemplo1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T10:59:46.043Z"
+              "WhenOpened": "2026-04-13T10:59:46.043Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,7 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\bin\Debug\ex4Pedidos.exe.config
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\bin\Debug\ex4Pedidos.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\bin\Debug\ex4Pedidos.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\obj\Debug\ex4Pedidos.csproj.AssemblyReference.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\obj\Debug\ex4Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\obj\Debug\ex4Pedidos.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex4Pedidos\obj\Debug\ex4Pedidos.pdb

@@ -1,0 +1,7 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\bin\Debug\Exercício.exe.config
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\bin\Debug\Exercício.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\bin\Debug\Exercício.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\obj\Debug\Exercício3.csproj.AssemblyReference.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\obj\Debug\Exercício3.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\obj\Debug\Exercício.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\Exercício\obj\Debug\Exercício.pdb

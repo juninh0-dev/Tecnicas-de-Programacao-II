@@ -1,0 +1,7 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\bin\Debug\ex3Pessoas.exe.config
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\bin\Debug\ex3Pessoas.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\bin\Debug\ex3Pessoas.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\obj\Debug\ex3Pessoas.csproj.AssemblyReference.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\obj\Debug\ex3Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\obj\Debug\ex3Pessoas.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex3Pessoas\obj\Debug\ex3Pessoas.pdb

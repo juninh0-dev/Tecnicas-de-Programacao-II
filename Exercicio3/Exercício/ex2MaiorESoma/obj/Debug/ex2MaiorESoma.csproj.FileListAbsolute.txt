@@ -1,0 +1,7 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\bin\Debug\ex2MaiorESoma.exe.config
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\bin\Debug\ex2MaiorESoma.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\bin\Debug\ex2MaiorESoma.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\obj\Debug\ex2MaiorESoma.csproj.AssemblyReference.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\obj\Debug\ex2MaiorESoma.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\obj\Debug\ex2MaiorESoma.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\Exercicio3\Exercício\ex2MaiorESoma\obj\Debug\ex2MaiorESoma.pdb
