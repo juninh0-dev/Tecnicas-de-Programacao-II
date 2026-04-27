@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\bin\Debug\net10.0\serializacaoEDesserializacao.exe
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\bin\Debug\net10.0\serializacaoEDesserializacao.deps.json
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\bin\Debug\net10.0\serializacaoEDesserializacao.runtimeconfig.json
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\bin\Debug\net10.0\serializacaoEDesserializacao.dll
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\bin\Debug\net10.0\serializacaoEDesserializacao.pdb
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.dll
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\refint\serializacaoEDesserializacao.dll
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.pdb
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\serializacaoEDesserializacao.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\serializacaoEDesserializacao\obj\Debug\net10.0\ref\serializacaoEDesserializacao.dll

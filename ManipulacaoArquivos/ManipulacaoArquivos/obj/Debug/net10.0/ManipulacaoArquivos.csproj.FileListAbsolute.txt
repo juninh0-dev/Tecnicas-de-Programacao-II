@@ -1,0 +1,14 @@
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\bin\Debug\net10.0\ManipulacaoArquivos.exe
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\bin\Debug\net10.0\ManipulacaoArquivos.deps.json
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\bin\Debug\net10.0\ManipulacaoArquivos.runtimeconfig.json
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\bin\Debug\net10.0\ManipulacaoArquivos.dll
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\bin\Debug\net10.0\ManipulacaoArquivos.pdb
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.AssemblyInfo.cs
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.dll
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\refint\ManipulacaoArquivos.dll
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.pdb
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ManipulacaoArquivos.genruntimeconfig.cache
+C:\Users\0201392511042\Desktop\ManipulacaoArquivos\ManipulacaoArquivos\obj\Debug\net10.0\ref\ManipulacaoArquivos.dll

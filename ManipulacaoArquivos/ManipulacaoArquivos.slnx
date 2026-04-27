@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ManipulacaoArquivos/ManipulacaoArquivos.csproj" />
+  <Project Path="serializacaoEDesserializacao/serializacaoEDesserializacao.csproj" Id="fb65cf38-8f11-466b-adbc-e86d5c7ea8bf" />
+  <Project Path="serializacaoEDesserializacaoComArquivo/serializacaoEDesserializacaoComArquivo.csproj" Id="15ac9008-d5e2-447b-80fd-004ddba50041" />
+</Solution>
