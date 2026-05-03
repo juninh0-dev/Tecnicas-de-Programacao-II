@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaRegistroMultasDeTransito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbb5c4fdd3ca716409deaa9bbe31a5f8e0eae4d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaRegistroMultasDeTransito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaRegistroMultasDeTransito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

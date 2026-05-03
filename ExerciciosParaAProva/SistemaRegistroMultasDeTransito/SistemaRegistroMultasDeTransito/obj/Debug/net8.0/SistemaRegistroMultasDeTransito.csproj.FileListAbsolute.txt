@@ -1,0 +1,15 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\bin\Debug\net8.0\SistemaRegistroMultasDeTransito.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\bin\Debug\net8.0\SistemaRegistroMultasDeTransito.deps.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\bin\Debug\net8.0\SistemaRegistroMultasDeTransito.runtimeconfig.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\bin\Debug\net8.0\SistemaRegistroMultasDeTransito.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\bin\Debug\net8.0\SistemaRegistroMultasDeTransito.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.AssemblyInfoInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.AssemblyInfo.cs
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.sourcelink.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\refint\SistemaRegistroMultasDeTransito.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\SistemaRegistroMultasDeTransito.genruntimeconfig.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\SistemaRegistroMultasDeTransito\SistemaRegistroMultasDeTransito\obj\Debug\net8.0\ref\SistemaRegistroMultasDeTransito.dll

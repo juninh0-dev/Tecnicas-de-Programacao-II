@@ -1,0 +1,14 @@
+[
+  {
+    "Placa": "GEK1234",
+    "TipoInfracao": "Passou sinal vermelho",
+    "Valor": 700,
+    "Data": "2026-05-03T00:23:30.9191823-03:00"
+  },
+  {
+    "Placa": "XYZ9999",
+    "TipoInfracao": "Estacionamento proibido",
+    "Valor": 200,
+    "Data": "2026-05-03T00:23:30.922364-03:00"
+  }
+]
