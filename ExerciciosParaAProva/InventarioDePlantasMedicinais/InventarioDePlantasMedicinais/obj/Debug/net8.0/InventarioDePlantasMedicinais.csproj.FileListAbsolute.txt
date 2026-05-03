@@ -1,0 +1,15 @@
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\bin\Debug\net8.0\InventarioDePlantasMedicinais.exe
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\bin\Debug\net8.0\InventarioDePlantasMedicinais.deps.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\bin\Debug\net8.0\InventarioDePlantasMedicinais.runtimeconfig.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\bin\Debug\net8.0\InventarioDePlantasMedicinais.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\bin\Debug\net8.0\InventarioDePlantasMedicinais.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.AssemblyInfoInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.AssemblyInfo.cs
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.sourcelink.json
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\refint\InventarioDePlantasMedicinais.dll
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.pdb
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\InventarioDePlantasMedicinais.genruntimeconfig.cache
+C:\Users\junin\Documents\GitHub\Tecnicas-de-Programacao-II\ExerciciosParaAProva\InventarioDePlantasMedicinais\InventarioDePlantasMedicinais\obj\Debug\net8.0\ref\InventarioDePlantasMedicinais.dll

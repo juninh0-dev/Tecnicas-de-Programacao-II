@@ -1,0 +1,16 @@
+[
+  {
+    "NomeCientifico": "Plantus Medicus",
+    "NomePopular": "Erva Vida",
+    "LocalColeta": "Amazônia",
+    "EmExtincao": true,
+    "DataColeta": "2026-05-01T10:00:00"
+  },
+  {
+    "NomeCientifico": "Herba Cura",
+    "NomePopular": "Folha Cura",
+    "LocalColeta": "Cerrado",
+    "EmExtincao": false,
+    "DataColeta": "2026-05-02T11:00:00"
+  }
+]
